@@ -1,6 +1,5 @@
 # issue-tracker
 
-> tracker integration for drupal
 > built for [jira integration module for drupal8](https://github.com/albu-vlad/jira-integration) with [vue.js](https://github.com/vuejs) and [vuetify.js](https://github.com/vuetifyjs)
 ## Build Setup
 1. Get a jira token from your [Jira profile](https://id.atlassian.com/profile/profile.action)
